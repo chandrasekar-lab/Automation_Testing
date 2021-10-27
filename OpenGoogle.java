@@ -12,7 +12,7 @@ public class OpenGoogle {
 		//1.Open Chrome
 		//2.Google home paage
 		
-		System.setProperty("Webdriver.chrome.driver", "C:\\Users\\chandrasekar\\Downloads\\chromedriver.exe");
+		System.setProperty("Webdriver.chrome.driver", "C:\\Users\\sekar\\Downloads\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver()
 	}
 
